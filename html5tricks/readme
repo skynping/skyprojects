@@ -1,0 +1,10 @@
+网站：https://www.html5tricks.com/
+页码： https://www.html5tricks.com/page/5
+
+标题id： //div[@id="content"]/article/@id
+标题：//div[@id="content"]/article/header/h1/a/text()
+标题链接： //div[@id="content"]/article/header/h1/a/@href
+
+图片链接：//div[@id="content"]/article/div[@class="entry-content"]/p//img/@src
+
+压缩包下载：//div[@id="content"]/article/div[@class="entry-content"]/p[@class="tricksButtons"]/a[@class="download"]/@href
